@@ -9,3 +9,9 @@ function forLoop(array){
   }
   return arr;
 }
+
+function whileLoop(number){
+  while (number > 0){
+    console.log(--number)
+  }
+}
